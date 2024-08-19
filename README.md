@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">Hello! My name is Few I'am fullstack-developer from Thailand</p>
+<p align="center">Hello! My name is Ball I'am fullstack-developer</p>
 
 ###
 
